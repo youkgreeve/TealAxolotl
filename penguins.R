@@ -2,6 +2,7 @@ penguins <- palmerpenguins::penguins
 
 library(ggplot2)
 penguins |> 
-  ggplot(aes(x=species,y=bill_length_mm))+
-  geom_boxplot()+
+  ggplot(aes(x=bill_length_mm,y=bill_depth_mm,color=species))+
+  geom_point()+
+  geom_smooth(method="lm")+
   theme_bw()
