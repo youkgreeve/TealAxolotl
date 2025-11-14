@@ -8,5 +8,9 @@ penguins |>
   theme_bw()
 
 #aufbwifbiu
+<<<<<<< HEAD
 #groeijgoegjoreij
 #FEOIJFEOIJS
+=======
+#groeijgeffewweoegjoreij
+>>>>>>> bbd455ef68543eef6707d5c856587089fde8f7cd
