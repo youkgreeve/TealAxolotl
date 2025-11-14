@@ -6,3 +6,5 @@ penguins |>
   geom_point()+
   geom_smooth(method="lm")+
   theme_bw()
+
+#aufbwifbiu
